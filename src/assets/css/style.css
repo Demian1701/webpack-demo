@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "MyFont";
+  src: 
+  /* url("./my-font.woff2") format("woff2"), */ 
+  url("../fonts/intel-clear-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+.hello {
+  color: red;
+  background: url(../images/icon.jpg);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  font-family: 'MyFont';
+}
+
+.hello img {
+  max-height: 600px;
+}
+
+.shadow-content{
+  background-color: blue;
+  min-height: 25px;
+  margin: 15px 0;
+}

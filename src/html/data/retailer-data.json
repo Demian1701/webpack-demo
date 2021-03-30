@@ -1,0 +1,1039 @@
+{
+    "version" : "1",
+    "nombreRetailer" : "Retailer1",
+    "secciones" : [
+        {            
+            "active" : true,
+            "title" : "Shop gaming pc<small>s</small>",
+            "description" : null,
+            "className": "products-section",
+            "cta_text": "Shop now",
+            
+            "categories" : [
+                {
+                    "active" : true,
+                    "slug" : "extreme",
+                    "className" : "extreme-category",
+                    "metadata" : {
+                        "active" : true,
+                        "title" : "Extreme <small>gaming</small>",
+                        "perfectForText" : "Perfect for",
+                        "perfectFor" : [
+                            "Play at the highest settings.",
+                            "Amazing performance for VR.",
+                            "Smoother gameplay on demanding titles."
+                        ],
+                        "description" : null
+                    },
+                    "products" : [
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "active" : true,
+                    "slug" : "advanced",
+                    "className" : "advanced-category",
+                    "metadata" : {
+                        "active" : true,
+                        "title" : "Advanced <small>gaming</small>",
+                        "perfectForText" : "Perfect for",
+                        "perfectFor" : [
+                            "Competitive level 1080p gaming.",
+                            "Game, stream and record at once.",
+                            "Smooth gameplay with more FPS. "
+                        ],
+                        "description" : null
+                    },
+                    "products" : [
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "active" : true,
+                    "slug" : "casual",
+                    "className" : "casual-category",
+                    "metadata" : {
+                        "active" : true,
+                        "title" : "Casual <small>gaming</small>",
+                        "perfectForText" : "Perfect for",
+                        "perfectFor" : [
+                            "Amazing gameplay resolution.",
+                            "Simultaneous gaming and streaming.",
+                            "Improved performance when you need it most."
+                        ],
+                        "description" : null
+                    },
+                    "products" : [
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "notebook",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product1@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i5 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i5@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i3 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i3@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        },
+                        {
+                            "formFactor" : "desktop",
+                            "title" : "Brand Model",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : null,
+                                "processor": "Intel® Core™ i9 processor",
+                                "memory" : "Memory: 8GB",
+                                "storage" : "Storage: 500GB"
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/product2@3x.png"
+                            ],
+                            "badge" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/badge-core-product-i9@3x.png"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+    
+        {
+            "active" : true,
+            "title" : "Shop Accessories",
+            "description" : null,
+            "className": "accesories-section",
+            "cta_text": "Shop now",
+            "categories" : [
+                {
+                    "active" : true,
+                    "slug" : "accesories",
+                    "className" : "accesories-category",
+                    "metadata" : {
+                        "active" : false,
+                        "title" : null,
+                        "perfectForText" : null,
+                        "perfectFor" : [],
+                        "description" : null
+                    },
+                    "products" : [
+                        {
+                            "formFactor" : "all",
+                            "title" : "Gaming Mouse",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+                                "processor": null,
+                                "memory" : null,
+                                "storage" : null
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory1.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory1@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory1@3x.png"
+                            ],
+                            "badge" : []
+                        },
+                        {
+                            "formFactor" : "all",
+                            "title" : "Gaming Mouse",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+                                "processor": null,
+                                "memory" : null,
+                                "storage" : null
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory2.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory2@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory2@3x.png"
+                            ],
+                            "badge" : []
+                        },
+                        {
+                            "formFactor" : "all",
+                            "title" : "Headphone with mic",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+                                "processor": null,
+                                "memory" : null,
+                                "storage" : null
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory3.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory3@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory3@3x.png"
+                            ],
+                            "badge" : []
+                        },
+                        {
+                            "formFactor" : "all",
+                            "title" : "Keyboard",
+                            "href" : "#",
+                            "target": "_blank",
+                            "priceSimbol" : "USD",
+                            "price" : null,
+                            "techSpecs" : {
+                                "description" : "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+                                "processor": null,
+                                "memory" : null,
+                                "storage" : null
+                            },
+                            "images" : [
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory4.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory4@2x.png",
+                                "//s3-sa-east-1.amazonaws.com/intel.gaming.exp-page/shared/assets/images/retailer/accesory4@3x.png"
+                            ],
+                            "badge" : []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
