@@ -24,3 +24,8 @@
   min-height: 25px;
   margin: 15px 0;
 }
+
+p{
+  color: red;
+  display: block;
+}
